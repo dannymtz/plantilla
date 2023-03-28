@@ -1,0 +1,53 @@
+{
+    "diaEvento": "27 | Mayo | 2023",
+    "novio":{
+        "nombre": "Daniel Martinez",
+        "padre": "",
+        "madre": ""
+    },
+    "novia":{
+        "nombre": "Liz Garcia",
+        "padre": "",
+        "madre": ""
+    },
+    "ubicacion": {
+        "lugarEvento" :"San Angel",
+        "gps": "https://www.google.com/maps/embed?pb=!4v1675703181736!6m8!1m7!1s2E7THXoLJkqbFmD2jDTokw!2m2!1d19.336817746918!2d-99.19885012937503!3f197.37607947128996!4f2.7557307974014975!5f0.7820865974627469"
+    },
+    "invitados": [
+        {
+            "familyName": "María del Carmen Pascual Leonides",
+            "numberInvite" :1,
+            "id": 8413464523
+          },
+          {
+            "familyName": "María Luisa Pascual Leonides",
+            "numberInvite" :1,
+            "id": 5737665243      
+          },
+          {
+            "familyName": "Familia Blanco Gutiérrez",
+            "numberInvite" :2,
+            "id": 7820230051
+          },
+          {
+            "familyName": "Diego Guerrero",
+            "numberInvite" :1,
+            "id": 4648327456      
+          },
+          {
+            "familyName": "Alejandro Sánchez",
+            "numberInvite" :1,
+            "id": 1229194065
+          },
+          {
+            "familyName": "Mauricio Salazar",
+            "numberInvite" :2,
+            "id": 9913896522      
+          }
+    ],
+    "galeria":[
+        "./resources/Gallery_Photo_4.jpeg",
+        "./resources/Gallery_Photo_2.jpeg"
+    ]
+}
