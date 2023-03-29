@@ -1,5 +1,8 @@
 {
-    "diaEvento": "27 | Mayo | 2023",
+    "evento":{
+      "diaEvento": "27 | Mayo | 2023",
+      "tipoEvento": "¡Nos casamos!"
+    },
     "novio":{
         "nombre": "Daniel Martinez",
         "padre": "",
@@ -45,9 +48,5 @@
             "numberInvite" :2,
             "id": 9913896522      
           }
-    ],
-    "galeria":[
-        "./resources/Gallery_Photo_4.jpeg",
-        "./resources/Gallery_Photo_2.jpeg"
     ]
 }
