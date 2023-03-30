@@ -1,6 +1,10 @@
 import foto from '../resources/Gallery_Photo_1.jpeg';
+import './Title.css'
 
-function Title(props) {
+
+
+
+function Title(props) {    
     return(
         <div>
             <h1 className="tipo_evento">{props.config.evento.tipoEvento}</h1>
